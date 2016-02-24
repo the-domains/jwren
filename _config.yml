@@ -7,12 +7,12 @@ color:
     - '#D8B818'
     - '#C8B8F0'
   brandStrength: 0
-  lightness: 0.647991
-  rhythmicContrast: 0.433558
-  saturation: 0.085003
+  lightness: 0.792792
+  rhythmicContrast: 0.490991
+  saturation: 0.434684
 cta: {}
-layout_spectrum: 0.192567
-name: images
+layout_spectrum: 0.689189
+name: jwren
 opengraph: {}
 purpose: {}
 typography_spectrum: 0.516891
