@@ -1,18 +1,31 @@
-analytics: {}
+name: jwren
+favicon: null
+layout_spectrum: 0.689189
+typography_spectrum: 0.516891
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C8C8B0'
-    - '#081840'
-    - '#9060A8'
-    - '#D8B818'
-    - '#C8B8F0'
+    - '#ffffff'
+    - '#151515'
+    - '#a9a9a9'
+    - '#6c6c6c'
+    - '#dfdfdf'
   brandStrength: 0
   lightness: 0.792792
-  rhythmicContrast: 0.490991
-  saturation: 0.434684
-cta: {}
-layout_spectrum: 0.689189
-name: jwren
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.516891
+  saturation: 0.125
+  rhythmicContrast: 1
+purpose:
+  - name: null
+    item: null
+    url: null
