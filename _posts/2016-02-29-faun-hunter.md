@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: a cosplay story
-datePublished: '2016-02-29T12:05:11.217Z'
-dateModified: '2016-02-29T12:04:51.883Z'
+datePublished: '2016-02-29T12:30:26.140Z'
+dateModified: '2016-02-29T12:05:20.044Z'
 title: FAUN + HUNTER
 author: []
+sourcePath: _posts/2016-02-29-faun-hunter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-faun-hunter.md
-published: true
 url: faun-hunter/index.html
 _type: Article
 
