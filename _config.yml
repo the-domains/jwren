@@ -1,6 +1,6 @@
 name: jwren
 favicon: null
-layout_spectrum: 0.689189
+layout_spectrum: 0.93982
 typography_spectrum: 0.516891
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#dfdfdf'
   brandStrength: 0
   lightness: 0.792792
-  saturation: 0.125
+  saturation: 0.5
   rhythmicContrast: 1
 purpose:
   - name: null
