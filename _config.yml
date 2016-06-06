@@ -23,7 +23,7 @@ color:
     - '#dfdfdf'
   brandStrength: 0
   lightness: 0.9375
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose:
   - name: null
