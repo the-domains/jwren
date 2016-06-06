@@ -4,7 +4,7 @@
         <description><![CDATA[jwren]]></description>
         <link>https://thegrid.ai/jwren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 19:49:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jwren/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,32 +14,18 @@
             <pubDate>Thu, 24 Mar 2016 16:22:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[JESSICA + BRYAN]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d21002b5850a4f69720ec1c84df65af5b0fba053.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jwren/jessica-bryan/index.html</link>
+            <guid isPermaLink="false">16b3173b-8e78-425f-9230-96e35ffd153a</guid>
+            <pubDate>Mon, 06 Jun 2016 19:49:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9b80dcc-9292-481c-be21-ab6efe4dcd20.jpg">]]></description>
             <link>https://thegrid.ai/jwren/6b976664-fa23-43bb-80b3-062a2c5f5e5a/index.html</link>
             <guid isPermaLink="false">6b976664-fa23-43bb-80b3-062a2c5f5e5a</guid>
             <pubDate>Wed, 23 Mar 2016 23:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[JESSICA + BRYAN]]></title>
-            <description><![CDATA[<article><h1>JESSICA + BRYAN</h1><p>Jessica & Bryan got engaged at Christmas. As it turned out, I was headed their way, very soon after, so we got to commemorate the occasion with some photos at the beach near their home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d21002b5850a4f69720ec1c84df65af5b0fba053.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jwren/jessica-bryan/index.html</link>
-            <guid isPermaLink="false">16b3173b-8e78-425f-9230-96e35ffd153a</guid>
-            <pubDate>Fri, 04 Mar 2016 20:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BEACH KIDS]]></title>
-            <description><![CDATA[<article><h1>BEACH KIDS</h1><p>some images of my oldest nephew and niece at the beach</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af38c736b5f27374b3319af4fd032e84b82a2fb1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jwren/beach-kids/index.html</link>
-            <guid isPermaLink="false">45ff5d39-7a3b-4b23-abac-424a1da1b348</guid>
-            <pubDate>Wed, 02 Mar 2016 11:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ALEX + BRYNLEY]]></title>
-            <description><![CDATA[<article><h1>ALEX + BRYNLEY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ec37d79bd7ed7f1c852063292575d730a98b2ee.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jwren/alex-brynley/index.html</link>
-            <guid isPermaLink="false">d7296921-e8c9-4b2c-a05f-aef812d36f66</guid>
-            <pubDate>Tue, 01 Mar 2016 22:08:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -56,8 +42,22 @@
             <pubDate>Wed, 02 Mar 2016 11:45:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[BEACH KIDS]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c54706ac-10b6-4185-955a-4f9422a7697e.jpg">]]></description>
+            <link>https://thegrid.ai/jwren/beach-kids/index.html</link>
+            <guid isPermaLink="false">45ff5d39-7a3b-4b23-abac-424a1da1b348</guid>
+            <pubDate>Wed, 02 Mar 2016 11:43:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ALEX + BRYNLEY]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2560f45-5133-444b-9dc5-d40a9be75ede.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jwren/alex-brynley/index.html</link>
+            <guid isPermaLink="false">d7296921-e8c9-4b2c-a05f-aef812d36f66</guid>
+            <pubDate>Tue, 01 Mar 2016 22:08:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FAUN + HUNTER]]></title>
-            <description><![CDATA[<article><h1>FAUN + HUNTER</h1><p>a cosplay story</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1bee198c03becfb153d509ab3f0291681807b3.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1bee198c03becfb153d509ab3f0291681807b3.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/jwren/faun-hunter/index.html</link>
             <guid isPermaLink="false">85d2cab6-98de-40ae-ba3b-556f14789bb1</guid>
             <pubDate>Mon, 29 Feb 2016 21:29:23 GMT</pubDate>
