@@ -1,6 +1,6 @@
 name: jwren
 favicon: null
-layout_spectrum: 0.41556
+layout_spectrum: 0.77443
 typography_spectrum: 0.516891
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#151515'
-    - '#a9a9a9'
-    - '#6c6c6c'
-    - '#dfdfdf'
+    - '#edd9d8'
+    - '#1f3121'
+    - '#74704b'
+    - '#e27368'
+    - '#cc4132'
   brandStrength: 0
-  lightness: 0.9375
+  lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose:
