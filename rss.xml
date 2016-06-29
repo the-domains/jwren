@@ -4,8 +4,15 @@
         <description><![CDATA[JWREN]]></description>
         <link>https://thegrid.ai/jwren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 05:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 05:47:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jwren/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FAUN + HUNTER]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1bee198c03becfb153d509ab3f0291681807b3.jpg">]]></description>
+            <link>https://thegrid.ai/jwren/faun-hunter/index.html</link>
+            <guid isPermaLink="false">85d2cab6-98de-40ae-ba3b-556f14789bb1</guid>
+            <pubDate>Wed, 29 Jun 2016 05:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/efcdd60d6d862509af7273065b23c777/croprotate.jpg?cropheight=4246&cropwidth=2832&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd223f9d2-05bd-4189-9fa3-f62f6ec54f9f.jpg&x=0&y=0">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jwren/6a2230ed-4f7a-4fac-805f-19f4d83bd183/index.html</link>
             <guid isPermaLink="false">6a2230ed-4f7a-4fac-805f-19f4d83bd183</guid>
             <pubDate>Wed, 29 Jun 2016 05:39:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/23f3bf67c4c1b4c1281a8d117ea62591/croprotate.jpg?cropheight=4144&cropwidth=2764&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F36246d62-4e34-4dcd-aec8-1da57103ff00.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/jwren/31567648-7a5c-4855-8175-d7dd8d239207/index.html</link>
-            <guid isPermaLink="false">31567648-7a5c-4855-8175-d7dd8d239207</guid>
-            <pubDate>Wed, 29 Jun 2016 05:39:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
