@@ -1,31 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: a cosplay story
-datePublished: '2016-02-29T21:29:23.868Z'
-dateModified: '2016-02-29T21:28:43.236Z'
-title: FAUN + HUNTER
-author: []
+datePublished: '2016-06-29T05:47:26.797Z'
 sourcePath: _posts/2016-02-29-faun-hunter.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-06-29T05:47:19.581Z'
+title: ''
+publisher: null
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: faun-hunter/index.html
 _type: Article
 
 ---
-No matter what way you tell this story, the faun always wins the hunter...
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d1bee198c03becfb153d509ab3f0291681807b3.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a0434c515b576d696c3ecff95565342d85a101.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4881e49e79a72a36c71eda4d00a15c20e572eaaa.jpg)
+
+No matter what way you tell this story, the faun always wins the hunter...
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a0434c515b576d696c3ecff95565342d85a101.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/888056b3ecfa18eb26e7f2906864b8c3ecdfe0e0.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad977907a617fecd7d020e283be1335c5406e3ce.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eec39ea3f6203141d8a873f9ccfb879e639f351.jpg)
