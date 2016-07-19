@@ -1,19 +1,4 @@
-name: jwren
-favicon: null
-layout_spectrum: 0.08354952232912183
 typography_spectrum: 0.516891
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#edd9d8'
@@ -25,6 +10,23 @@ color:
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.08354952232912183
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  email: j.wren.art@gmail.com
+name: jwren
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose:
   - name: null
     item: null
