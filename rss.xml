@@ -4,8 +4,15 @@
         <description><![CDATA[jwren]]></description>
         <link>https://thegrid.ai/jwren/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 23:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 23:56:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jwren/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ALEX + BRYNLEY]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2560f45-5133-444b-9dc5-d40a9be75ede.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jwren/alex-brynley/index.html</link>
+            <guid isPermaLink="false">d7296921-e8c9-4b2c-a05f-aef812d36f66</guid>
+            <pubDate>Thu, 04 Aug 2016 23:56:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/efcdd60d6d862509af7273065b23c777/croprotate.jpg?cropheight=4246&cropwidth=2832&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd223f9d2-05bd-4189-9fa3-f62f6ec54f9f.jpg&x=0&y=0">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/jwren/d66bc58a-f207-4e44-98cd-939069a97ebe/index.html</link>
             <guid isPermaLink="false">d66bc58a-f207-4e44-98cd-939069a97ebe</guid>
             <pubDate>Wed, 29 Jun 2016 05:45:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c4f069c952b0442a7f5d387185f36ba4/croprotate.jpg?cropheight=2913&cropwidth=4368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7d3844fc-7ea8-485d-9e67-7c0566349b06.jpg&x=0&y=0">]]></description>
-            <link>https://thegrid.ai/jwren/f379c9ca-4e65-4915-8f16-942cf96b6902/index.html</link>
-            <guid isPermaLink="false">f379c9ca-4e65-4915-8f16-942cf96b6902</guid>
-            <pubDate>Wed, 29 Jun 2016 05:44:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
