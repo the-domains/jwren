@@ -3,21 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T22:08:13.945Z'
-dateModified: '2016-03-01T22:08:01.455Z'
-title: ALEX + BRYNLEY
-author: []
+datePublished: '2016-08-04T23:56:23.281Z'
+dateModified: '2016-08-04T23:56:22.713Z'
+title: ''
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-03-01-alex-brynley.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
-sourcePath: _posts/2016-03-01-alex-brynley.md
-published: true
+via: {}
+starred: true
 url: alex-brynley/index.html
 _type: Article
 
